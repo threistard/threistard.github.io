@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://threistard.github.io/sitemap
+Sitemap: https://threistard.github.io/app/sitemap
+Sitemap: https://threistard.github.io/assets/sitemap
+Sitemap: https://threistard.github.io/css/sitemap
+Sitemap: https://threistard.github.io/includes/sitemap
+Sitemap: https://threistard.github.io/item/sitemap
+Sitemap: https://threistard.github.io/src/sitemap
